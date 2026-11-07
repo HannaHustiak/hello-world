@@ -16,4 +16,4 @@ elif operation == "/":
         print("Частка дорівнює:", result)
     else:
         print("На нуль ділити не можна!")
-    
+
